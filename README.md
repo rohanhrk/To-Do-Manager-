@@ -52,7 +52,7 @@ Referece: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 
    ![black priority](https://user-images.githubusercontent.com/72231697/118388172-73174880-b640-11eb-8ab8-21bef9635fef.png)
    
-9. Edit task, set font size and font family, change priority of a task
+9. Edit task, set font size and font family, change priority color of a task
 
    ![edit task](https://user-images.githubusercontent.com/72231697/118388222-c1c4e280-b640-11eb-9d66-628f72ac3bc1.png)
 
