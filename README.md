@@ -18,7 +18,7 @@ To-Do management application that allows you to prioritize the tasks that are mo
 Referece: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 
 
-#Snapshots
+# Snapshots
 
 1. Color Priorities
  
