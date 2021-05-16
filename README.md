@@ -16,3 +16,12 @@ To-Do management application that allows you to prioritize the tasks that are mo
 6. You can change the theme of the application.
 7. your tasks are saved in the browser's local storage (The localStorage object stores data with no expiration date, the data will not be deleted when the browser is closed and will be available the next day, week, or year.)
 Referece: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+
+
+#Snapshots
+
+1. Color Priorities
+2. 
+3. ![priority color](https://user-images.githubusercontent.com/72231697/118388032-9ab9e100-b63f-11eb-80e5-c09f73a9d30b.png)
+
+
