@@ -14,8 +14,7 @@ To-Do management application that allows you to prioritize the tasks that are mo
 4. You can filter the task according to the color.
 5. You can edit a task and change the font size and font family of a task.
 6. You can change the theme of the application.
-7. your tasks are saved in the browser's local storage (The localStorage object stores data with no expiration date, the data will not be deleted when the browser is closed and will be available the next day, week, or year.)
-Referece: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+7. your tasks are saved in the browser's local storage (The localStorage object stores data with no expiration date, the data will not be deleted when the browser is closed and will be available the next day, week, or year.) Reference: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 
 
 # Snapshots
