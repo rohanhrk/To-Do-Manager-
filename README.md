@@ -1,5 +1,5 @@
 # To-Do-Manager
-To-Do management application that allows you to prioritize the tasks that are more important.
+To-Do manager application that allows you to prioritize the tasks that are more important.
 
 # Stack Used
 1. HTML
